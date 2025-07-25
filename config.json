@@ -84,9 +84,8 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
       "fengche": {
-      "api": "https://www.dmla7.com/",
+      "api": "https://www.dmla7.com/api.php/provide/vod",
       "name": "风车动漫"
     }
-  }
-}
